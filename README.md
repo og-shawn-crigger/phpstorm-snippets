@@ -1,4 +1,16 @@
-phpstorm-snippets
-=================
+h1. Templates for PHPStorm IDE
 
-Live Templates and File Headers for PHPStorm and WebStorm IDE's by JetBrains
+h2. Installation
+
+Put Magento.xml file into config/templates folder of you PHPStorm configuration.
+For detailed informations visit "PHPStorm Live Template Web Help page.":http://www.jetbrains.com/phpstorm/webhelp/live-templates.html
+
+h3. MacOS
+
+The template folder can be found here: *~/Library/Preferences/WebIDE10/templates*
+
+h3. Linux
+
+The template folder can be found here: *~/.WebIde10/config/templates*
+
+
